@@ -1,0 +1,123 @@
+body{
+    background-image: url(img/1665BCA8-91ED-4D81-AE8E-7854D8649C27.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.nav_bg_color{
+    background-color: rgba(41, 43, 41, 0.8);
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(32, 121, 75, 0.9);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(19, 121, 41, 0.9);
+    background-color: aliceblue; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 254, 219, 0.9);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(150, 77, 62, 0.7);
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.box{
+    background-color: rgba(57, 58, 57, 0.8);
+    color: rgba(245, 248, 208, 0.9);
+    margin-top: 25px;
+    padding: 20px;
+}
+
+.box01{
+    position: relative;
+    left: 30%;
+}
+
+.box02{
+  text-align:left;
+  color: #7baef0;
+}
+
+a.move{
+    color: #000;
+    font-size: 25px;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+.bg_1{
+    background-image: url(img/IMG_3548.PNG);
+}
+.bg_2{
+    background-image: url(img/IMG_3560.JPG);
+}
+.color_1{
+    background-color: rgb(70, 72, 73);
+}
+.color_2{
+    background-color: rgb(70, 72, 73);
+}
+
+html,body{
+    height: 100%;
+}
+.fixed_bg, .infos{
+    position: relative;
+    height: 50%;
+}
+.fixed_bg{
+    background-attachment: fixed ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+}
+.vcenter{
+    margin: 30px;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+#box03{
+    margin: auto;
+    background-color: rgb(250, 246, 211);
+    width: 500px;
+    border: solid 2px rgb(30, 30, 31);
+    padding: 20px;
+}
+
+.box04{
+    margin: 50px ;
+    background-color: rgb(250, 246, 211);
+    width: 400px;
+    border: solid 2px rgb(30, 30, 31);
+    padding: 20px;
+}
+
+.box05{
+    position: relative;
+    left: 65%;
+    background-color: rgb(250, 246, 211);
+    width: 400px;
+    border: solid 2px rgb(30, 30, 31);
+    padding: 20px;
+}
+
+.box06{
+    margin: auto;
+    background-color: #fcfbd6;
+    width:500px;
+    border: solid 2px rgb(30, 30, 31);
+    padding: 20px;
+}
